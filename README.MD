@@ -63,7 +63,7 @@ You can also use **Live Server** in Visual Studio Code for a better development 
 Add screenshots of your project here.
 Example:
 ```markdown
-![Web Preview](./image-1.png)
+![alt text](/assets/image-1.png)
 ```
 
 ## 🎯 What I Learned
